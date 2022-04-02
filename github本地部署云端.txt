@@ -1,0 +1,9 @@
+利用github发布文件也有坑，简直吐了。。。
+还添加了公钥，存到了C:\Users\Junyi\.ssh
+
+1. 创建空的repo，切记不要有任何东西， 比如源文件，readme。。。
+2. 直接复制推荐的那几行命令， 不要一行行敲， vscode/terminal都行， 但是要在加载的那个文件夹下面运行！！
+3.搞好以后会自动生成readme文件，此时再通过以下几步：
+	a. git add . # 将所有改变点添加到本地内存
+	b. git commit -m "xxxxxx" #用来写改变的地方是啥，加评论的地方
+	c. git push origin main
