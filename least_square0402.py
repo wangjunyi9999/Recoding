@@ -39,5 +39,6 @@ for i in range (100):
         plt.text(0.5, 0, 'Loss=%.4f' % loss.data, fontdict={'size': 20, 'color': 'red'})
         plt.pause(0.1)
 plt.ioff()
-plt.show() 
+plt.show()
+plttttt
 
