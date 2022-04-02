@@ -40,5 +40,4 @@ for i in range (100):
         plt.pause(0.1)
 plt.ioff()
 plt.show()
-plttttt
 
