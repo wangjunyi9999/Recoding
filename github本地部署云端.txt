@@ -7,3 +7,9 @@
 	a. git add . # 将所有改变点添加到本地内存
 	b. git commit -m "xxxxxx" #用来写改变的地方是啥，加评论的地方
 	c. git push origin main
+git pull origin main 进行拉取线上
+git branch 查看当前branch
+git branch new_branch，创建一个新的分支 new_branch
+git chekedout xxxxxx，我们可以切换分支
+
+遗留一个疑问，没法同步新建文件夹在云端，这个有时间过来解决下
